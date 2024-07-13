@@ -45,7 +45,7 @@ You can go to my website www.temposalphabet.com to preview what the app will loo
   
 - 🌱 I’m currently learning ... mobile app development
   
-- 💞️ I’m looking to collaborate on ... game dev/mobile app developemt
+- 💞️ I’m looking to collaborate on ... game dev/mobile app development
   
 - 📫 How to reach me ... temposalphabet@outlook.com or https://x.com/TemposAlphabet or https://www.threads.net/@writerjonb
   
