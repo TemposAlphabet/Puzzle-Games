@@ -1,5 +1,4 @@
-
-![Logo  - google (wide screen)](https://github.com/user-attachments/assets/0a597621-eee7-4b21-8bc3-c7a63a96e256)
+![App - Title Card](https://github.com/user-attachments/assets/b001e68e-8ac0-4c72-8ed4-bc5864e7a36b)
 
 
 
@@ -25,7 +24,7 @@ You can go to my website www.temposalphabet.com to preview what the app will loo
   
 - 💞️ I’m looking to collaborate on ... game dev/mobile app developemt
   
-- 📫 How to reach me ... temposalphabet@outlook.com or https://x.com/TemposAlphabet
+- 📫 How to reach me ... temposalphabet@outlook.com or https://x.com/TemposAlphabet or https://www.threads.net/@writerjonb
   
 
 
