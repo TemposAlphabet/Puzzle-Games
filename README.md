@@ -4,6 +4,29 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Download the Tempos_Alphabet.apk file using your android phone.
 
 Even though your phone will say otherwise, the file is completely safe.
