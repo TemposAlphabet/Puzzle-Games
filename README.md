@@ -27,7 +27,7 @@
 
 
 
-Download the Tempos_Alphabet.apk file using your android phone.
+Download the Tempos_Alphabet.apk file on your android.
 
 [Even though your phone will say otherwise, the file is completely safe.]
 
@@ -37,11 +37,11 @@ Download the Tempos_Alphabet.apk file using your android phone.
 
 
 
-You can still play the apk file on your PC.
-Download BlueStacks 👉 https://bstk.me/ujVykf2Uw 
+You can also open the apk file on your PC with
+BlueStacks 👉 https://bstk.me/ujVykf2Uw 
 
 Install the program on your PC. Then open the apk file in BlueStacks.
-Click on the "App Player" icon on the bottom left corner to open. 
+Click on the "App Player" icon at the bottom left corner. 
 
 Then search for the "Install APK" icon. And voila! 
 
