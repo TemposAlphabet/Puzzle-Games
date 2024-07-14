@@ -33,7 +33,7 @@ Even though your phone will say otherwise, the file is completely safe.
 
 It's just my website converted into a native app. It was built using www.WebtoNative.com
 
-You can go to my website www.temposalphabet.com to preview what the app will look like on your android, if you'd like.
+You can go to my website www.temposalphabet.com to preview what the app will look like on your phone, if you'd like.
 
 
 
