@@ -57,7 +57,7 @@ About me:
   
 - 💞️ I’m looking to collaborate on ... game dev/mobile app development
   
-- 📫 How to reach me ... temposalphabet@outlook.com or https://x.com/TemposAlphabet or https://www.threads.net/@writerjonb
+- 📫 How to reach me ... temposalphabet@outlook.com or https://x.com/TemposAlphabet 
   
 
 
