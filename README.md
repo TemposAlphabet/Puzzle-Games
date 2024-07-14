@@ -39,7 +39,7 @@ You can go to my website www.temposalphabet.com to preview what the app will loo
 
 
 
-You can still play the apk file on your pc.
+You can still play the apk file on your PC.
 Download BlueStacks 👉 https://bstk.me/ujVykf2Uw 
 Install the program on your PC. Then open the apk file in BlueStacks.
 That'll allow you to download the puzzle game app on your PC!
