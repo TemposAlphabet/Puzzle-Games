@@ -42,7 +42,8 @@ You can go to my website www.temposalphabet.com to preview what the app will loo
 You can still play the apk file on your PC.
 Download BlueStacks 👉 https://bstk.me/ujVykf2Uw 
 Install the program on your PC. Then open the apk file in BlueStacks.
-It'll allow you to play the mobile game app on your PC!
+Click on the "App Player" icon on the bottom left corner to open. Then look for the upload APK file icon.
+It'll allow you to play my mobile game app on your PC! 
 
 
 About me: 
