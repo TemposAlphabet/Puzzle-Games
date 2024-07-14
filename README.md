@@ -43,7 +43,8 @@ Download BlueStacks 👉 https://bstk.me/ujVykf2Uw
 Install the program on your PC. Then open the apk file in BlueStacks.
 Click on the "App Player" icon on the bottom left corner to open. 
 
-Then search for the "Install APK" icon. Voila!
+Then search for the "Install APK" icon. And voila! 
+
 It'll allow you to play the Android game app on your PC! 
 
 
