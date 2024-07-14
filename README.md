@@ -45,7 +45,7 @@ Click on the "App Player" icon at the bottom left corner.
 
 Then search for the "Install APK" icon. And voila! 
 
-It'll allow you to play the Android game app on your PC! 
+It'll allow you to play this Android game app on your PC! 
 
 
 About me: 
