@@ -46,7 +46,7 @@ Install the program on your PC. Then open the apk file in BlueStacks.
 Click on the "App Player" icon on the bottom left corner to open. 
 
 Then look for the upload APK file icon.
-It'll allow you to play mobile game apps on your PC! 
+It'll allow you to play the mobile game app on your PC! 
 
 
 About me: 
