@@ -55,9 +55,7 @@ About me:
 - 👀 I’m interested in ... game dev
   
 - 🌱 I’m currently learning ... mobile app development
-  
-- 💞️ I’m looking to collaborate on ... game dev/mobile app development
-  
+
 - 📫 How to reach me ... temposalphabet@outlook.com or https://x.com/TemposAlphabet 
   
 
